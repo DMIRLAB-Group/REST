@@ -1,0 +1,33 @@
+2022-Jan-11 21:22 [INFO ] Namespace(alpha=0.1, anneal_rate=1e-05, batch_size=1024, beta=0.0, categorical_dim=4, check_epoch=1, dataset='Ciao', device='cuda:0', droprate=0.6, edim=64, emb_l2rg=0.01, l2rg=0.0005, lr=0.007, lr_decayrate=0.1, lr_gamma=0.001, max_epochs=50, model='REST', momentum=0.5, nbr_maxlen=50, num_workers=1, patience=3, repeat=5, rescale_rate=0, seed=27, seq_maxlen=50, temp=1.0, temp_min=0.5, unexp_pos_threshold=3, w_unexp=1.0)
+2022-Jan-11 21:22 [INFO ] Iter=1 Epoch=1 Val MAE=0.7208, RMSE=0.9718
+2022-Jan-11 21:23 [INFO ] Iter=1 Epoch=2 Val MAE=0.7326, RMSE=0.9721
+2022-Jan-11 21:23 [INFO ] Iter=1 Epoch=3 Val MAE=0.7435, RMSE=0.9836
+2022-Jan-11 21:23 [INFO ] Iter=1 Epoch=4 Val MAE=0.7459, RMSE=0.9949
+2022-Jan-11 21:23 [INFO ] Iter=1 Tst MAE=0.7162, RMSE=0.9630
+2022-Jan-11 21:23 [INFO ] Iter=1 Val MAE=0.7208, RMSE=0.9718
+2022-Jan-11 21:24 [INFO ] Iter=2 Epoch=1 Val MAE=0.7339, RMSE=0.9692
+2022-Jan-11 21:24 [INFO ] Iter=2 Epoch=2 Val MAE=0.7564, RMSE=0.9783
+2022-Jan-11 21:24 [INFO ] Iter=2 Epoch=3 Val MAE=0.7399, RMSE=0.9869
+2022-Jan-11 21:25 [INFO ] Iter=2 Epoch=4 Val MAE=0.7439, RMSE=0.9916
+2022-Jan-11 21:25 [INFO ] Iter=2 Tst MAE=0.7334, RMSE=0.9641
+2022-Jan-11 21:25 [INFO ] Iter=2 Val MAE=0.7339, RMSE=0.9692
+2022-Jan-11 21:25 [INFO ] Iter=3 Epoch=1 Val MAE=0.7350, RMSE=0.9745
+2022-Jan-11 21:25 [INFO ] Iter=3 Epoch=2 Val MAE=0.7388, RMSE=0.9756
+2022-Jan-11 21:26 [INFO ] Iter=3 Epoch=3 Val MAE=0.7443, RMSE=0.9824
+2022-Jan-11 21:26 [INFO ] Iter=3 Epoch=4 Val MAE=0.7501, RMSE=1.0108
+2022-Jan-11 21:26 [INFO ] Iter=3 Tst MAE=0.7330, RMSE=0.9687
+2022-Jan-11 21:26 [INFO ] Iter=3 Val MAE=0.7350, RMSE=0.9745
+2022-Jan-11 21:26 [INFO ] Iter=4 Epoch=1 Val MAE=0.7340, RMSE=0.9683
+2022-Jan-11 21:27 [INFO ] Iter=4 Epoch=2 Val MAE=0.7495, RMSE=0.9724
+2022-Jan-11 21:27 [INFO ] Iter=4 Epoch=3 Val MAE=0.7460, RMSE=0.9979
+2022-Jan-11 21:27 [INFO ] Iter=4 Epoch=4 Val MAE=0.7455, RMSE=0.9862
+2022-Jan-11 21:27 [INFO ] Iter=4 Tst MAE=0.7348, RMSE=0.9628
+2022-Jan-11 21:27 [INFO ] Iter=4 Val MAE=0.7340, RMSE=0.9683
+2022-Jan-11 21:28 [INFO ] Iter=5 Epoch=1 Val MAE=0.7258, RMSE=0.9743
+2022-Jan-11 21:28 [INFO ] Iter=5 Epoch=2 Val MAE=0.7366, RMSE=0.9783
+2022-Jan-11 21:28 [INFO ] Iter=5 Epoch=3 Val MAE=0.7473, RMSE=0.9988
+2022-Jan-11 21:29 [INFO ] Iter=5 Epoch=4 Val MAE=0.7466, RMSE=0.9978
+2022-Jan-11 21:29 [INFO ] Iter=5 Tst MAE=0.7229, RMSE=0.9670
+2022-Jan-11 21:29 [INFO ] Iter=5 Val MAE=0.7258, RMSE=0.9743
+2022-Jan-11 21:29 [INFO ] Mean MAE=0.7281, RMSE=0.9651
+2022-Jan-11 21:29 [INFO ] Std  MAE=0.0073, RMSE=0.0023
