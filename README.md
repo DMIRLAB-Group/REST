@@ -1,6 +1,6 @@
 # REST
 
-The PyTorch implementation of paper [REST: Debiased Social Recommendation via Reconstructing Exposure Strategies](xxx). (TNNLS under submission)
+The PyTorch implementation of paper [REST: Debiased Social Recommendation via Reconstructing Exposure Strategies](xxx).
 
 ## Usage
 
