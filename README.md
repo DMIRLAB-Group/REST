@@ -11,7 +11,7 @@ Download datasets:
 [Epinions](http://www.cse.msu.edu/~tangjili/datasetcode/epinions.zip), 
 [Yelp](https://www.yelp.com/dataset/download)
 
-Then unzip them into the directory `datasets` and run `preprocess_yelp.py`
+Then unzip them into the directory `datasets` and run `preprocess_yelp.py`. 
 
 ```
 └── datasets
