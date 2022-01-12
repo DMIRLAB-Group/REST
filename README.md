@@ -37,11 +37,5 @@ During the training, we can obtain some logs and model-checkpoints in the direct
 
 ## Results
 ![image](exp.png)
-
-|  REST | Ciao | Epinions | Yelp |
-| :----: | :------: | :------: | :------: |
-| MAE  | 0.7320 | 0.8013 | 0.9158 |
-| RMSE | 0.9635 | 1.0413 | 1.1733 |
-
 Detailed results can be found in the [paper](xxx).
 
