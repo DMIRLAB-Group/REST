@@ -36,7 +36,7 @@ Then unzip them into the directory `datasets` and run `preprocess_yelp.py`.
 During the training, we can obtain some logs and model-checkpoints in the directory `logs` and `saved_models`,
 
 ## Results
-
+![image](exp.png)
 
 |  REST | Ciao | Epinions | Yelp |
 | :----: | :------: | :------: | :------: |
